@@ -5,5 +5,5 @@
 Este trabajo muestra el diseño, modelado, texturizado y animación de uno de los niveles que compondría este videojuego, además de el diseño, modelado, texturizado y animaciones del personaje principal. 
 Algunos de los elementos como el coche, las bicicletas, las vallas, los árboles, las mesas y sillas de la terraza no están realizadas por mi, son elementos de 3ds Max y de sketchup. 
 
-A más información se puede leer la siguiente memoria: 
+A más información se puede leer la siguiente memoria: La Imaginacion de Cora_memoria.pdf
 Descargable en: https://criis-0924.itch.io/ghactionsclass
