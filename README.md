@@ -6,4 +6,5 @@ Este trabajo muestra el diseño, modelado, texturizado y animación de uno de lo
 Algunos de los elementos como el coche, las bicicletas, las vallas, los árboles, las mesas y sillas de la terraza no están realizadas por mi, son elementos de 3ds Max y de sketchup. 
 
 A más información se puede leer la siguiente memoria: [La Imaginacion de Cora_memoria.pdf](https://github.com/CristinaMartinez24/Cora-s-Imagination/blob/9e3d672b5f26315a1e2687a2961f6899ed066c57/La%20Imaginacion%20de%20Cora_memoria.pdf)
+
 Descargable en: https://criis-0924.itch.io/ghactionsclass
