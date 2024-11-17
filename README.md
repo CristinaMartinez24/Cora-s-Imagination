@@ -7,4 +7,6 @@ Algunos de los elementos como el coche, las bicicletas, las vallas, los árboles
 
 A más información se puede leer la siguiente memoria: [La Imaginacion de Cora_memoria.pdf](https://github.com/CristinaMartinez24/Cora-s-Imagination/blob/9e3d672b5f26315a1e2687a2961f6899ed066c57/La%20Imaginacion%20de%20Cora_memoria.pdf)
 
+Vídeo Demostración: [Vídeo DemoGamePLay](https://github.com/CristinaMartinez24/Cora-s-Imagination/blob/50d17614c266178744808d5c4a165c5fad8418dd/CristinaMartinezOtto_DemoGameplay-highlight.mp4)
+
 Descargable en: https://criis-0924.itch.io/ghactionsclass
